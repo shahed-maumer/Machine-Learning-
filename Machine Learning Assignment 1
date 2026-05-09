@@ -166,6 +166,7 @@ test = pd.read_csv("test.csv")
 print(train.shape, test.shape)
 #Load the training and testing datasets and display their dimensions.
 
-Google Colab link:https://colab.research.google.com/drive/1VXGK5EUFc3lJhj6ivFwSIissYetT10iT
+Google Colab link:
+https://colab.research.google.com/drive/1VXGK5EUFc3lJhj6ivFwSIissYetT10iT
 
 
